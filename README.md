@@ -1,8 +1,8 @@
 # PyTorch Bootcamp
 
-### This repository contains all my work throughout a [Udemy course](https://www.udemy.com/course/pytorch-for-deep-learning/?kw=pytorch&src=sac) on PyTorch offered by Daniel Bourke. 
+### This repository contains all my work throughout a [course](https://www.udemy.com/course/pytorch-for-deep-learning/?kw=pytorch&src=sac) on PyTorch offered by Daniel Bourke. 
 
-You can find all the Google Colab notebooks that I have made along the way as well as the files I used to create 2 demo machine learning applications (FoodVision Mini and FoodVision Huge).
+You can find all the Jupyter notebooks that I have made along the way as well as the files I used to create 2 demo machine learning applications (FoodVision Mini and FoodVision Huge).
 
 ### FoodVision Mini
 FoodVision Mini is a simple image classification application that classifies any image into 3 food categories: pizza, steak and sushi.\
