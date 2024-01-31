@@ -15,4 +15,4 @@ The implementation can be found in [09_pytorch.ipynb](https://github.com/purplel
 The application demo can be accessed via Hugging Face spaces [here](https://huggingface.co/spaces/purplelord2003/foodvision_big).
 
 ### Summary
-During the creation of the applications, there was a comparision between two model architecutures: (Efficient Net) [https://arxiv.org/abs/1905.11946] (based on Convolutional Neural Networks) vs (Vision Transformer)[https://arxiv.org/abs/2010.11929] (based on pure transformer). The decision to choose Efficient Net over Vision Transformer came down to considerations such as accuracy, model size and prediction speeds.
+During the creation of the applications, there was a comparision between two model architecutures: [Efficient Net](https://arxiv.org/abs/1905.11946) (based on Convolutional Neural Networks) vs [Vision Transformer](https://arxiv.org/abs/2010.11929) (based on pure transformer). The decision to choose Efficient Net over Vision Transformer came down to considerations such as accuracy, model size and prediction speeds.
