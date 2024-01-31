@@ -6,10 +6,10 @@ You can find all the Jupyter notebooks that I have made along the way as well as
 
 ### FoodVision Mini
 FoodVision Mini is a simple image classification application that classifies any image into 3 food categories: pizza, steak and sushi.\
-The implementation can be found in [09_pytorch.ipynb](https://github.com/purplelord2003/PyTorch-Bootcamp/raw/main/Jupyter%20Notebooks/09_pytorch.ipynb).\
+The implementation can be found in [09_pytorch.ipynb](https://github.com/purplelord2003/PyTorch-Bootcamp/blob/main/Jupyter%20Notebooks/09_pytorch.ipynb).\
 The application demo can be accessed via Hugging Face spaces [here](https://huggingface.co/spaces/purplelord2003/foodvision_mini).
 
 ### FoodVision Huge
 FoodVision Huge is a ramped up version of FoodVision Mini which now classifies any image into [101 different food categories](https://github.com/purplelord2003/PyTorch-Bootcamp/raw/main/class_names.txt).
-The implementation can be found in [09_pytorch.ipynb](https://github.com/purplelord2003/PyTorch-Bootcamp/raw/main/Jupyter%20Notebooks/09_pytorch.ipynb).\
+The implementation can be found in [09_pytorch.ipynb](https://github.com/purplelord2003/PyTorch-Bootcamp/blob/main/Jupyter%20Notebooks/09_pytorch.ipynb).\
 The application demo can be accessed via Hugging Face spaces [here](https://huggingface.co/spaces/purplelord2003/foodvision_big).
