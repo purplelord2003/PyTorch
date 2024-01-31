@@ -10,6 +10,6 @@ The implementation can be found in [09_pytorch.ipynb](https://github.com/purplel
 The application demo can be accessed via Hugging Face spaces [here](https://huggingface.co/spaces/purplelord2003/foodvision_mini).
 
 ### FoodVision Huge
-FoodVision Huge is a marked up version of FoodVision Mini which now classifies any image into [101 different food categories](https://github.com/purplelord2003/PyTorch-Bootcamp/raw/main/class_names.txt).
+FoodVision Huge is a ramped up version of FoodVision Mini which now classifies any image into [101 different food categories](https://github.com/purplelord2003/PyTorch-Bootcamp/raw/main/class_names.txt).
 The implementation can be found in [09_pytorch.ipynb](https://github.com/purplelord2003/PyTorch-Bootcamp/raw/main/Jupyter%20Notebooks/09_pytorch.ipynb).\
 The application demo can be accessed via Hugging Face spaces [here](https://huggingface.co/spaces/purplelord2003/foodvision_big).
