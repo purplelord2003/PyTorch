@@ -1,5 +1,5 @@
 # PyTorch Bootcamp
-
+### Deployed app demo: https://huggingface.co/spaces/purplelord2003/foodvision_big 
 ### This repository contains all my work throughout a [course](https://www.udemy.com/course/pytorch-for-deep-learning/?kw=pytorch&src=sac) on PyTorch offered by Daniel Bourke. 
 
 You can find all the Jupyter notebooks that I have made along the way as well as the files I used to create 2 demo machine learning applications (FoodVision Mini and FoodVision Big). Do download the Jupyter Notebook's raw file to fix the formatting within the individual cells (the preview compresses the lines together).
